@@ -5,4 +5,4 @@ matplotlib
 scikit-learn
 pymongo
 certifi
--e .
+-e .  ## it refers to setup.py
