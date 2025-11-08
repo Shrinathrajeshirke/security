@@ -5,4 +5,7 @@ matplotlib
 scikit-learn
 pymongo[srv]==3.12
 certifi
+scipy
+dill
+pyaml
 -e .  
