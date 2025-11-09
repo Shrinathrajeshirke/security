@@ -23,6 +23,8 @@ from sklearn.ensemble import(
 from sklearn.metrics import f1_score
 from networksecurity.utils.main_utils.utils import evaluate_models
 import mlflow
+import dagshub
+dagshub.init(repo_owner='Shrinathrajeshirke', repo_name='security', mlflow=True)
 
 class ModelTrainer:
     def __init__(self, model_trainer_config:ModelTrainingConfig, data_transformation_artifact:DataTransformationArtifacts):
