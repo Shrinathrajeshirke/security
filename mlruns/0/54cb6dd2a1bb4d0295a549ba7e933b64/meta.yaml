@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/End-to-end-Projects/2-ML-Project-Network-security/mlruns/0/54cb6dd2a1bb4d0295a549ba7e933b64/artifacts
+end_time: 1762660758739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54cb6dd2a1bb4d0295a549ba7e933b64
+run_name: defiant-quail-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762660711059
+status: 3
+tags: []
+user_id: Shrinath

@@ -1,0 +1,10 @@
+artifact_location: file:///D:/End-to-end-Projects/2-ML-Project-Network-security/mlruns/0/models/m-3c8b7427884948c48ad5f8804899a669/artifacts
+creation_timestamp: 1762661149289
+experiment_id: '0'
+last_updated_timestamp: 1762661167548
+model_id: m-3c8b7427884948c48ad5f8804899a669
+model_type: null
+name: model
+source_run_id: 60a75cad9cca4ab89ab472348cf3ec6d
+status: 2
+status_message: null
